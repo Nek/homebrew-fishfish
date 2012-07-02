@@ -1,7 +1,7 @@
 require 'formula'
 
 class Fishfish < Formula
-  homepage ''
+  homepage 'http://ridiculousfish.com/shell/index.html'
   head 'https://github.com/fish-shell/fish-shell.git'
   url 'https://github.com/fish-shell/fish-shell/zipball/master'
   md5 'a8a222e171f7ea6bf2c67a1770141c6c'
